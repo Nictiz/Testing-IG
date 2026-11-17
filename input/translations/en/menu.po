@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Artefacten"
+msgstr "Artifacts"

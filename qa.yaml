@@ -1,0 +1,11 @@
+main branch: origin/main
+ignored issues: known-issues.yml
+igs:
+  - input/
+  - generated/resources
+  - nictiz.nl.nlps#1.0.0-beta.2
+script dir: util/qa
+
+patterns:
+
+steps:
